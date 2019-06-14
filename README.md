@@ -20,3 +20,4 @@ teamserver
 teamserver.bat
 ```
 .bat是用于Windows的修改版其他的是用于Linux的原版shell脚本(主要是为方便Windows用户使用CobaltStrike的全部功能)
+之前的库我已经删了里面的部分东西我也删了你懂的，现在建了这个新库
