@@ -1,5 +1,5 @@
 # CobaltStrike-xor
-- xor和xor64.bin
+xor和xor64.bin
 32位来自2.5的版本64来自https://github.com/verctor/CS_xor64
 以上xor文件废弃
 
